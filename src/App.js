@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Configuration d'un VPS avec Nginx & React
+          Configuration du VPS avec Nginx & React
         </p>
         <a
           className="App-link"
